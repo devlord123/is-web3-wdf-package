@@ -1,0 +1,19 @@
+{
+  "name": "is-web3-wtf-package",
+  "version": "1.0.0",
+  "description": "is a string",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/devlord123/is-web3-wdf-package.git"
+  },
+  "author": "Devlord123",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/devlord123/is-web3-wdf-package/issues"
+  },
+  "homepage": "https://github.com/devlord123/is-web3-wdf-package#readme"
+}
